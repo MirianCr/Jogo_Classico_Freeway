@@ -1,4 +1,5 @@
 # <h1>Jogo_Classico_Freeway</h1>
+https://miriancr.github.io/Jogo_Classico_Freeway/
 Curso de Jogos clássicos parte 2: laços e listas com Javascript - Alura - Professor Guilherme Lima - Boticario_Desenvolve 2022<br>
 Neste curso vamos criar um jogo do zero, utilizando a linguagem de programação Javascript.
 
